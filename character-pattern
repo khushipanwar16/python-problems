@@ -1,0 +1,21 @@
+//here is a code for charachter pattern using python
+
+ascii_number = 65
+rows =int(input())
+for i in range(0, rows):
+    for j in range(0, i + 1):
+        character = chr(ascii_number+j)
+        print(character, end='')
+    ascii_number +=1
+    print(" ")
+
+
+
+
+
+// code output as follows
+//A 
+//BC 
+//CDE 
+//DEFG 
+//EFGHI 
