@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HI EVERYONE!
 
+=======
+hello !
+>>>>>>> 08f56d1e82317292e4e7d36b030c6dbc8ba4bfe5
